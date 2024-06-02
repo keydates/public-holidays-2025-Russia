@@ -1,0 +1,60 @@
+{
+  "product": "Russia Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government",
+      "product": "Russia Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the New Year"
+    },
+    {
+      "title": "International Women's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-03-08T12:00:00",
+      "endDate": "2025-03-08T12:00:00",
+      "source": "Government",
+      "product": "Russia Public Holidays 2025",
+      "style": "pink",
+      "description": "Celebration of women's achievements"
+    },
+    {
+      "title": "Victory Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-09T12:00:00",
+      "endDate": "2025-05-09T12:00:00",
+      "source": "Government",
+      "product": "Russia Public Holidays 2025",
+      "style": "red",
+      "description": "Commemoration of victory in WWII"
+    },
+    {
+      "title": "Russia Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-06-12T12:00:00",
+      "endDate": "2025-06-12T12:00:00",
+      "source": "Government",
+      "product": "Russia Public Holidays 2025",
+      "style": "white",
+      "description": "Celebration of the Russian Federation"
+    },
+    {
+      "title": "Unity Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-04T12:00:00",
+      "endDate": "2025-11-04T12:00:00",
+      "source": "Government",
+      "product": "Russia Public Holidays 2025",
+      "style": "green",
+      "description": "Celebration of unity and peace"
+    }
+  ]
+}
